@@ -1,0 +1,16 @@
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\bin\Debug\net8.0-windows\Practica 4.exe
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\bin\Debug\net8.0-windows\Practica 4.deps.json
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\bin\Debug\net8.0-windows\Practica 4.runtimeconfig.json
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\bin\Debug\net8.0-windows\Practica 4.dll
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\bin\Debug\net8.0-windows\Practica 4.pdb
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica_4.Form1.resources
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica 4.csproj.GenerateResource.cache
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica 4.AssemblyInfoInputs.cache
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica 4.AssemblyInfo.cs
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica 4.csproj.CoreCompileInputs.cache
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica 4.dll
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\refint\Practica 4.dll
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica 4.pdb
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\Practica 4.genruntimeconfig.cache
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Practica 4\Practica 4\obj\Debug\net8.0-windows\ref\Practica 4.dll

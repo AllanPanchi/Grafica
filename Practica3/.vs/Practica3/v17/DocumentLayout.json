@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\practica3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica3\\practica3\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica3\\practica3\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica3\\practica3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica3\\practica3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica3\\practica3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica3\\practica3\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica3\\practica3\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica3\\practica3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F9268E-D069-4BB1-B7F1-670CFDD82725}|Practica3\\Practica3.csproj|solutionrelative:practica3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica3\\Form1.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Form1.cs",
+              "RelativeToolTip": "Practica3\\Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAWwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:55:57.723Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Practica3\\Rectangulo.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Rectangulo.cs",
+              "RelativeToolTip": "Practica3\\Rectangulo.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:09:25.371Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Menu.cs",
+              "RelativeDocumentMoniker": "Practica3\\Menu.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Menu.cs",
+              "RelativeToolTip": "Practica3\\Menu.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:12:13.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Practica3\\Rectangulo.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Rectangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica3\\Rectangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:28:07.998Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica3\\Form1.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:39:33.398Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Program.cs",
+              "RelativeDocumentMoniker": "Practica3\\Program.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Program.cs",
+              "RelativeToolTip": "Practica3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:19:51.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Square.cs",
+              "RelativeDocumentMoniker": "Practica3\\Square.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Square.cs",
+              "RelativeToolTip": "Practica3\\Square.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:47:33.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Menu.cs",
+              "RelativeDocumentMoniker": "Practica3\\Menu.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica3\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:08:48.655Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Practica3\\Rectangle.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica3\\Practica3\\Rectangle.cs",
+              "RelativeToolTip": "Practica3\\Rectangle.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:40:58.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Pr\u00E1ctica 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48FBCC7-E5EB-458D-977B-0BE3C4033D36}|Pr\u00E1ctica 7\\Pr\u00E1ctica 7.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\pr\u00E1ctica 7\\pr\u00E1ctica 7\\frmpointsdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E48FBCC7-E5EB-458D-977B-0BE3C4033D36}|Pr\u00E1ctica 7\\Pr\u00E1ctica 7.csproj|solutionrelative:pr\u00E1ctica 7\\frmpointsdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48FBCC7-E5EB-458D-977B-0BE3C4033D36}|Pr\u00E1ctica 7\\Pr\u00E1ctica 7.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\pr\u00E1ctica 7\\pr\u00E1ctica 7\\frmpointsdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48FBCC7-E5EB-458D-977B-0BE3C4033D36}|Pr\u00E1ctica 7\\Pr\u00E1ctica 7.csproj|solutionrelative:pr\u00E1ctica 7\\frmpointsdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48FBCC7-E5EB-458D-977B-0BE3C4033D36}|Pr\u00E1ctica 7\\Pr\u00E1ctica 7.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\pr\u00E1ctica 7\\pr\u00E1ctica 7\\drawline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48FBCC7-E5EB-458D-977B-0BE3C4033D36}|Pr\u00E1ctica 7\\Pr\u00E1ctica 7.csproj|solutionrelative:pr\u00E1ctica 7\\drawline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawLine.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Pr\u00E1ctica 7\\Pr\u00E1ctica 7\\DrawLine.cs",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica 7\\DrawLine.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Pr\u00E1ctica 7\\Pr\u00E1ctica 7\\DrawLine.cs",
+              "RelativeToolTip": "Pr\u00E1ctica 7\\DrawLine.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:41:49.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPointsDraw.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Pr\u00E1ctica 7\\Pr\u00E1ctica 7\\FrmPointsDraw.cs",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica 7\\FrmPointsDraw.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Pr\u00E1ctica 7\\Pr\u00E1ctica 7\\FrmPointsDraw.cs*",
+              "RelativeToolTip": "Pr\u00E1ctica 7\\FrmPointsDraw.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:28:06.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPointsDraw.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Pr\u00E1ctica 7\\Pr\u00E1ctica 7\\FrmPointsDraw.cs",
+              "RelativeDocumentMoniker": "Pr\u00E1ctica 7\\FrmPointsDraw.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Pr\u00E1ctica 7\\Pr\u00E1ctica 7\\FrmPointsDraw.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Pr\u00E1ctica 7\\FrmPointsDraw.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:19:44.189Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

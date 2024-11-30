@@ -1,0 +1,10 @@
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\bin\Debug\Práctica 7.exe.config
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\bin\Debug\Práctica 7.exe
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\bin\Debug\Práctica 7.pdb
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\obj\Debug\Práctica 7.csproj.AssemblyReference.cache
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\obj\Debug\Práctica_7.FrmPointsDraw.resources
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\obj\Debug\Práctica_7.Properties.Resources.resources
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\obj\Debug\Práctica 7.csproj.GenerateResource.cache
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\obj\Debug\Práctica 7.csproj.CoreCompileInputs.cache
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\obj\Debug\Práctica 7.exe
+D:\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 1\Práctica 7\Práctica 7\obj\Debug\Práctica 7.pdb

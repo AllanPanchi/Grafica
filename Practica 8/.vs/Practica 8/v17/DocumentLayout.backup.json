@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5970A1-DD78-476E-90BC-E50EE4559A1D}|Practica 8\\Practica 8.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica 8\\practica 8\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5970A1-DD78-476E-90BC-E50EE4559A1D}|Practica 8\\Practica 8.csproj|solutionrelative:practica 8\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5970A1-DD78-476E-90BC-E50EE4559A1D}|Practica 8\\Practica 8.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica 8\\practica 8\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E5970A1-DD78-476E-90BC-E50EE4559A1D}|Practica 8\\Practica 8.csproj|solutionrelative:practica 8\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5970A1-DD78-476E-90BC-E50EE4559A1D}|Practica 8\\Practica 8.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica 8\\practica 8\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5970A1-DD78-476E-90BC-E50EE4559A1D}|Practica 8\\Practica 8.csproj|solutionrelative:practica 8\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5970A1-DD78-476E-90BC-E50EE4559A1D}|Practica 8\\Practica 8.csproj|d:\\allan\\universidad\\sexto semestre\\computaci\u00F3n gr\u00E1fica\\parcial 1\\practica 8\\practica 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5970A1-DD78-476E-90BC-E50EE4559A1D}|Practica 8\\Practica 8.csproj|solutionrelative:practica 8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTriangle.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\Practica 8\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "Practica 8\\FrmTriangle.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\Practica 8\\FrmTriangle.cs*",
+              "RelativeToolTip": "Practica 8\\FrmTriangle.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:06:04.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\Practica 8\\Triangle.cs",
+              "RelativeDocumentMoniker": "Practica 8\\Triangle.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\Practica 8\\Triangle.cs*",
+              "RelativeToolTip": "Practica 8\\Triangle.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:50:13.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\Practica 8\\Program.cs",
+              "RelativeDocumentMoniker": "Practica 8\\Program.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\Practica 8\\Program.cs",
+              "RelativeToolTip": "Practica 8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:30:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTriangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\Practica 8\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "Practica 8\\FrmTriangle.cs",
+              "ToolTip": "D:\\Allan\\UNIVERSIDAD\\Sexto Semestre\\Computaci\u00F3n Gr\u00E1fica\\Parcial 1\\Practica 8\\Practica 8\\FrmTriangle.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Practica 8\\FrmTriangle.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:30:15.639Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
