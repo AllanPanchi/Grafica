@@ -59,13 +59,13 @@ namespace Practica_6
             int centerX = picCanva.Width / 2;
             int centerY = picCanva.Height / 2;
 
-            float outerX = centerX - mMajorRadius;
-            float outerY = centerY - mMajorRadius;
-            float outerDiameter = mMajorRadius * 2;
+            float outerX = centerX - mMajorRadius * SF;
+            float outerY = centerY - mMajorRadius * SF;
+            float outerDiameter = mMajorRadius * 2 * SF;
 
-            float innerX = centerX - mMinorRadius;
-            float innerY = centerY - mMinorRadius;
-            float innerDiameter = mMinorRadius * 2;
+            float innerX = centerX - mMinorRadius * SF;
+            float innerY = centerY - mMinorRadius * SF;
+            float innerDiameter = mMinorRadius * 2 * SF;
 
             using (mGraph = picCanva.CreateGraphics())
             {
@@ -73,9 +73,10 @@ namespace Practica_6
                 mBrush = new SolidBrush(Color.Gold);
 
                 mGraph.FillEllipse(mBrush, outerX, outerY, outerDiameter, outerDiameter);
+                mGraph.FillEllipse(new SolidBrush(Color.Black), innerX, innerY, innerDiameter, innerDiameter);
+
 
                 mGraph.DrawEllipse(mPen, outerX, outerY, outerDiameter, outerDiameter);
-                mGraph.DrawEllipse(mPen, innerX, innerY, innerDiameter * SF, innerDiameter * SF);
 
             }
         }

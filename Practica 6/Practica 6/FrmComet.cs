@@ -41,6 +41,7 @@ namespace Practica_6
             txtMinorDiagonal.Text = "";
             txtMinorSide.Text = "";
             txtMajorSide.Text = "";
+            picCanva.Refresh();
         }
 
         private void FrmComet_Load(object sender, EventArgs e)
@@ -64,6 +65,7 @@ namespace Practica_6
             comet.ReadData(txtMajorDiagonal, txtMinorDiagonal, txtMinorSide, txtMajorSide);
             comet.CalculatePerimeter();
             comet.CalculateArea();
+            comet.PlotShape(picCanva);
             comet.WriteData(txtPerimeter, txtArea);
         }
     }

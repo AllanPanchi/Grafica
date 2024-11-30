@@ -37,6 +37,7 @@ namespace Practica_6
             txtArea.Text = "";
             txtRadius.Text = "";
             txtGrades.Text = "";
+            picCanva.Refresh();
         }
 
         private void FrmCircleSector_Load(object sender, EventArgs e)
@@ -48,6 +49,7 @@ namespace Practica_6
         {
             sector.ReadData(txtRadius, txtGrades);
             sector.CalculateArea();
+            sector.PlotShape(picCanva);
             sector.WriteData(txtArea);
         }
 

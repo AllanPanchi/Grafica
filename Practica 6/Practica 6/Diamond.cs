@@ -15,6 +15,7 @@ namespace Practica_6
         private float mSide;
         private float mPerimeter;
         private float mArea;
+        private const float SF = 15.0f;
         private Graphics mGraph;
         private Pen mPen;
 
@@ -67,10 +68,13 @@ namespace Practica_6
             float centerX = picCanva.Width / 2;
             float centerY = picCanva.Height / 2;
 
-            PointF A = new PointF(centerX, centerY - mMajorDiagonal / 2);
-            PointF B = new PointF(centerX + mMinorDiagonal / 2, centerY);
-            PointF C = new PointF(centerX, centerY + mMajorDiagonal / 2);
-            PointF D = new PointF(centerX - mMinorDiagonal / 2, centerY);
+            float mMajorDiagonal2 = mMajorDiagonal * SF;
+            float mMinorDiagonal2 = mMinorDiagonal * SF;
+
+            PointF A = new PointF(centerX, centerY - mMajorDiagonal2 / 2);
+            PointF B = new PointF(centerX + mMinorDiagonal2 / 2, centerY);
+            PointF C = new PointF(centerX, centerY + mMajorDiagonal2 / 2);
+            PointF D = new PointF(centerX - mMinorDiagonal2 / 2, centerY);
 
             PointF[] diamondVertix ={A, B, C, D};
 

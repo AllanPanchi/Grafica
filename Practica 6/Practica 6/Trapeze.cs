@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,6 +18,9 @@ namespace Practica_6
         private float mHeight;
         private float mPerimeter;
         private float mArea;
+        private const float SF = 15.0f;
+        private Graphics mGraph;
+        private Pen mPen;
 
         public Trapeze()
         {
@@ -54,6 +58,31 @@ namespace Practica_6
         public void CalculateArea()
         {
             mArea = ((mMajorBase + mMinorBase) * mHeight) / 2;
+        }
+
+        public void PlotShape(PictureBox picCanva) 
+        { 
+            float centerX = picCanva.Width / 2;
+            float centerY = picCanva.Height / 2;
+
+            float mMajorBase2 = mMajorBase * SF;
+            float mMinorBase2 = mMinorBase * SF;
+            float mHeight2 = mHeight + SF;
+
+            float offset = 50;
+
+            PointF A = new PointF(centerX - mMajorBase2 / 2 + offset, centerY - mHeight2 / 2);
+            PointF B = new PointF(centerX + mMajorBase2 / 2 + offset, centerY - mHeight2 / 2);
+            PointF C = new PointF(centerX + mMinorBase2 / 2, centerY + mHeight2 / 2);
+            PointF D = new PointF(centerX - mMinorBase2 / 2, centerY + mHeight2 / 2);
+
+            PointF[] trapeze = { A, B, C, D };
+
+            using (mGraph = picCanva.CreateGraphics()) {
+                mPen = new Pen(Color.Red, 2);
+
+                mGraph.DrawPolygon(mPen, trapeze);
+            }
         }
 
         public void WriteData(TextBox txtPerimeter, TextBox txtArea)

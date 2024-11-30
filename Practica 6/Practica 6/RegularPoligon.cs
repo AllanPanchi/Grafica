@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,6 +16,9 @@ namespace Practica_6
         private int mSideNumber;
         private float mPerimeter;
         private float mArea;
+        private const float SF = 15.0f;
+        private Graphics mGraph;
+        private Pen mPen;
 
         public RegularPoligon()
         {
@@ -47,6 +51,30 @@ namespace Practica_6
         public void CalculateArea()
         {
             mArea = (mPerimeter * mApotema) / 2;
+        }
+
+        public void PlotShape(PictureBox picCanva) 
+        {
+            float centerX = picCanva.Width / 2;
+            float centerY = picCanva.Height / 2;
+
+            float mRadius = mSide * SF;
+
+            PointF[] point = new PointF[mSideNumber];
+
+            for (int i = 0; i < mSideNumber; i++)
+            {
+                float angle = (float)(i * 2 * Math.PI / mSideNumber - Math.PI / 2); // Ángulo en radianes
+                float x = centerX + mRadius * (float)Math.Cos(angle);
+                float y = centerY + mRadius * (float)Math.Sin(angle);
+                point[i] = new PointF(x, y);
+            }
+
+            using (mGraph = picCanva.CreateGraphics())
+            {
+                mPen = new Pen(Color.Red, 2);
+                mGraph.DrawPolygon(mPen, point);
+            }
         }
 
         public void WriteData(TextBox txtPerimeter, TextBox txtArea)

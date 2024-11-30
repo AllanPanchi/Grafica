@@ -37,6 +37,7 @@ namespace Practica_6
             txtSide.Text = "";
             txtApotema.Text = "";
             txtSideNumber.Text = "";
+            picCanva.Refresh();
         }
         private void FrmRegularPoligon_Load(object sender, EventArgs e)
         {
@@ -59,6 +60,7 @@ namespace Practica_6
             regularPoligon.ReadData(txtApotema, txtSide, txtSideNumber);
             regularPoligon.CalculatePerimeter();
             regularPoligon.CalculateArea();
+            regularPoligon.PlotShape(picCanva);
             regularPoligon.WriteData(txtPerimeter, txtArea);
         }
     }

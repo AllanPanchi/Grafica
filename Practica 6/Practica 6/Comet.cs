@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.Drawing.Design;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,6 +18,9 @@ namespace Practica_6
         private float mMajorSide;
         private float mPerimeter;
         private float mArea;
+        private Graphics mGraph;
+        private Pen mPen;
+        private const float SF = 10.0f;
 
         public Comet()
         {
@@ -50,6 +55,33 @@ namespace Practica_6
         public void CalculateArea()
         {
             mArea = (mMinorDiagonal * mMajorDiagonal) / 2;
+        }
+
+        public void PlotShape(PictureBox picCanva) 
+        { 
+            float centerX = picCanva.Width / 2;
+            float centerY = picCanva.Height / 2;
+            
+            float mMinorDiagonal2 = mMinorDiagonal * SF;
+            float mMajorDiagonal2 = mMajorDiagonal * SF;
+            float mMajorSide2 = mMajorSide * SF;
+            float mMinorSide2 = mMinorSide * SF;
+
+            PointF top = new PointF(centerX, centerY - mMajorDiagonal2 / 2);
+            PointF min = new PointF(centerX, centerY + mMajorDiagonal2 / 2);
+
+            float dx = (float)Math.Sqrt(Math.Pow(mMajorSide2, 2) - Math.Pow(mMinorSide2, 2));
+            PointF right = new PointF(centerX - dx, centerY);
+            PointF left = new PointF(centerX + dx, centerY);
+
+            PointF[] comet = { top, min, right, left };
+
+            using (mGraph = picCanva.CreateGraphics())
+            {
+                mPen = new Pen(Color.Red, 2);
+
+                mGraph.DrawPolygon(mPen, comet);
+            }
         }
 
         public void WriteData(TextBox txtPerimeter, TextBox txtArea)

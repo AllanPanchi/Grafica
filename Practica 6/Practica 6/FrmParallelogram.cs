@@ -36,6 +36,7 @@ namespace Practica_6
             txtSide.Text = "";
             txtBase.Text = "";
             txtHeight.Text = "";
+            picCanva.Refresh();
         }
 
         private void grbInputs_Enter(object sender, EventArgs e)
@@ -48,6 +49,7 @@ namespace Practica_6
             parallelogram.ReadData(txtBase, txtSide, txtHeight);
             parallelogram.CalculatePerimeter();
             parallelogram.CalculateArea();
+            parallelogram.PlotShape(picCanva);
             parallelogram.WriteData(txtArea, txtPerimeter);
         }
 

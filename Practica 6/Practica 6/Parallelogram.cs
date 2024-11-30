@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,6 +15,9 @@ namespace Practica_6
         private float mSide;
         private float mPerimeter;
         private float mArea;
+        private const float SF = 15.0f;
+        private Graphics mGraph;
+        private Pen mPen;
 
         public Parallelogram()
         {
@@ -47,6 +51,31 @@ namespace Practica_6
         {
             mArea = mBase * mHeight;
         }
+
+        public void PlotShape(PictureBox picCanva) 
+        { 
+            int centerX = picCanva.Width / 2;
+            int centerY = picCanva.Height / 2;
+
+            float mBase2 = mBase * SF;
+            float mSide2 = mSide * SF;
+            float offset = 50.0F;
+
+            PointF A = new PointF(centerX - mBase2 / 2, centerY - mSide2 / 2);
+            PointF B = new PointF(centerX + mBase2 / 2, centerY - mSide2 / 2);
+            PointF C = new PointF(centerX + mBase2 / 2 + offset, centerY + mSide2 / 2);
+            PointF D = new PointF(centerX - mBase2 / 2 + offset, centerY + mSide2 / 2);
+
+            PointF[] parallelogram = { A, B, C, D };
+
+            using (mGraph = picCanva.CreateGraphics()) {
+                mPen = new Pen(Color.Red, 2);
+
+                mGraph.DrawPolygon(mPen, parallelogram);
+            }
+
+        }
+
 
         public void WriteData(TextBox txtPerimeter, TextBox txtArea)
         {

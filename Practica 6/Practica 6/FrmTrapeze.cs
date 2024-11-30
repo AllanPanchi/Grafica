@@ -40,6 +40,7 @@ namespace Practica_6
             txtMinorBase.Text = "";
             txtMajorBase.Text = "";
             txtHeight.Text = "";
+            picCanva.Refresh();
         }
 
         private void FrmTrapeze_Load(object sender, EventArgs e)
@@ -63,6 +64,7 @@ namespace Practica_6
             trapeze.ReadData(txtMajorBase, txtMinorBase, txtSide1, txtSide2, txtHeight);
             trapeze.CalculatePerimeter();
             trapeze.CalculateArea();
+            trapeze.PlotShape(picCanva);
             trapeze.WriteData(txtPerimeter, txtArea);
         }
     }
