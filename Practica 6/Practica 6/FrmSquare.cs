@@ -53,13 +53,23 @@ namespace Practica_6
             square.ReadData(txtSide);
             square.CalculatePerimeter();
             square.CalculateArea();
-            square.PlotShape(picCanva);
             square.WriteData(txtPerimeter, txtArea);
         }
 
         private void FrmSquare_Load(object sender, EventArgs e)
         {
             InitializeData();
+        }
+
+        private void trckbSize_Scroll(object sender, EventArgs e)
+        {
+            square.setSize(trckbSize.Value);
+            square.PlotShape(picCanva, 0);
+        }
+
+        private void btnRotateLeft_Click(object sender, EventArgs e)
+        {
+            square.PlotShape(picCanva, 15);
         }
     }
 }

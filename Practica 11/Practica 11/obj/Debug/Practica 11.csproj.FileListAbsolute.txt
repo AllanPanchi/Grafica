@@ -1,0 +1,10 @@
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\bin\Debug\Practica 11.exe.config
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\bin\Debug\Practica 11.exe
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\bin\Debug\Practica 11.pdb
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\obj\Debug\Practica 11.csproj.AssemblyReference.cache
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\obj\Debug\Practica_11.Form1.resources
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\obj\Debug\Practica_11.Properties.Resources.resources
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\obj\Debug\Practica 11.csproj.GenerateResource.cache
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\obj\Debug\Practica 11.csproj.CoreCompileInputs.cache
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\obj\Debug\Practica 11.exe
+D:\Allan Temporal\Computación Gráfica\Grafica\Practica 11\Practica 11\obj\Debug\Practica 11.pdb

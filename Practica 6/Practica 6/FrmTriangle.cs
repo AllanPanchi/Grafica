@@ -14,7 +14,7 @@ namespace Practica_6
     {
 
         Triangle triangle = new Triangle();
-
+       
         private static FrmTriangle instance;
 
         public FrmTriangle()

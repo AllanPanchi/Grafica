@@ -86,6 +86,5 @@ namespace Practica_6
             txtArea.Text = mArea.ToString();
         }
 
-
     }
 }

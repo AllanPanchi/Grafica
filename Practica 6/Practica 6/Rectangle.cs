@@ -55,8 +55,6 @@ namespace Practica_6
 
                 mGraph.DrawRectangle(mPen, 0, 0, mWidth, mPerimeter);
             }
-
-
         }
 
         public void WriteData(TextBox txtPerimeter, TextBox txtArea)

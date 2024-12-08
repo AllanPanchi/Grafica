@@ -91,7 +91,6 @@ namespace Practica_6
             mGraph = picCanvas.CreateGraphics();
             mPen = new Pen(Color.Blue, 3);
             CalculateVertex();
-            // Graficar las tres líneas que conforman un triángulo.
             mGraph.DrawLine(mPen, A.X * SF, A.Y * SF, B.X * SF, B.Y * SF);
             mGraph.DrawLine(mPen, A.X * SF, A.Y * SF, C.X * SF, C.Y * SF);
             mGraph.DrawLine(mPen, B.X * SF, B.Y * SF, C.X * SF, C.Y * SF);

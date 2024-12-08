@@ -73,7 +73,6 @@ namespace Practica_6
 
                 mGraph.DrawPolygon(mPen, parallelogram);
             }
-
         }
 
 

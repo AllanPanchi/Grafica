@@ -50,8 +50,6 @@ namespace Practica_6
             else {
                 return (false);
             }
-
-
         }
         
         public void CalculatePerimeter()

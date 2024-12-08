@@ -74,7 +74,7 @@ namespace Practica_6
             PointF right = new PointF(centerX - dx, centerY);
             PointF left = new PointF(centerX + dx, centerY);
 
-            PointF[] comet = { top, min, right, left };
+            PointF[] comet = { top, left, min, right };
 
             using (mGraph = picCanva.CreateGraphics())
             {

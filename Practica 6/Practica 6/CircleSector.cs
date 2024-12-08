@@ -16,7 +16,7 @@ namespace Practica_6
         private float mArea;
         private Graphics mGraph;
         private Pen mPen;
-        private const float SF = 15.0f;
+        private const float SF = 20.0f;
 
         public CircleSector()
         {

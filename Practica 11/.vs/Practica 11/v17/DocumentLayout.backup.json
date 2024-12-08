@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Allan Temporal\\Computaci\u00F3n Gr\u00E1fica\\Grafica\\Practica 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35C0776-42C2-49F0-B014-BD3F8C996724}|Practica 11\\Practica 11.csproj|d:\\allan temporal\\computaci\u00F3n gr\u00E1fica\\grafica\\practica 11\\practica 11\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35C0776-42C2-49F0-B014-BD3F8C996724}|Practica 11\\Practica 11.csproj|solutionrelative:practica 11\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35C0776-42C2-49F0-B014-BD3F8C996724}|Practica 11\\Practica 11.csproj|d:\\allan temporal\\computaci\u00F3n gr\u00E1fica\\grafica\\practica 11\\practica 11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A35C0776-42C2-49F0-B014-BD3F8C996724}|Practica 11\\Practica 11.csproj|solutionrelative:practica 11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35C0776-42C2-49F0-B014-BD3F8C996724}|Practica 11\\Practica 11.csproj|d:\\allan temporal\\computaci\u00F3n gr\u00E1fica\\grafica\\practica 11\\practica 11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35C0776-42C2-49F0-B014-BD3F8C996724}|Practica 11\\Practica 11.csproj|solutionrelative:practica 11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Allan Temporal\\Computaci\u00F3n Gr\u00E1fica\\Grafica\\Practica 11\\Practica 11\\Circle.cs",
+              "RelativeDocumentMoniker": "Practica 11\\Circle.cs",
+              "ToolTip": "D:\\Allan Temporal\\Computaci\u00F3n Gr\u00E1fica\\Grafica\\Practica 11\\Practica 11\\Circle.cs*",
+              "RelativeToolTip": "Practica 11\\Circle.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:44:19.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Allan Temporal\\Computaci\u00F3n Gr\u00E1fica\\Grafica\\Practica 11\\Practica 11\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 11\\Form1.cs",
+              "ToolTip": "D:\\Allan Temporal\\Computaci\u00F3n Gr\u00E1fica\\Grafica\\Practica 11\\Practica 11\\Form1.cs",
+              "RelativeToolTip": "Practica 11\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:39:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Allan Temporal\\Computaci\u00F3n Gr\u00E1fica\\Grafica\\Practica 11\\Practica 11\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 11\\Form1.cs",
+              "ToolTip": "D:\\Allan Temporal\\Computaci\u00F3n Gr\u00E1fica\\Grafica\\Practica 11\\Practica 11\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica 11\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:28:03.203Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
