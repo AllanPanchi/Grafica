@@ -1,0 +1,11 @@
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\bin\Debug\Practica 12.exe.config
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\bin\Debug\Practica 12.exe
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\bin\Debug\Practica 12.pdb
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\obj\Debug\Practica 12.csproj.AssemblyReference.cache
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\obj\Debug\Practica_12.Forms_DDA.resources
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\obj\Debug\Practica_12.Properties.Resources.resources
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\obj\Debug\Practica 12.csproj.GenerateResource.cache
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\obj\Debug\Practica 12.csproj.CoreCompileInputs.cache
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\obj\Debug\Practica 12.exe
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\obj\Debug\Practica 12.pdb
+C:\RESPALDOS\D\Allan\UNIVERSIDAD\Sexto Semestre\Computación Gráfica\Parcial 2\Practica 12\Practica 12\obj\Debug\Practica_12.Menu.resources
